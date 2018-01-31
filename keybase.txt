@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/hubeiyichangzy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.hubeiyichangzy.com
+  * I am hubeiyichangzy (https://keybase.io/hubeiyichangzy) on keybase.
+  * I have a public key with fingerprint 2204 FB94 6397 21A9 626D  8810 FB5B A2C7 12D3 2719
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101856b6cb734df44bb8be5d909c024b1a5bb15649134ccc1b1fabb17e76f37055f0a",
+            "fingerprint": "2204fb94639721a9626d8810fb5ba2c712d32719",
+            "host": "keybase.io",
+            "key_id": "fb5ba2c712d32719",
+            "kid": "0101856b6cb734df44bb8be5d909c024b1a5bb15649134ccc1b1fabb17e76f37055f0a",
+            "uid": "64d6c2d2d7df7277ce60ded40f133519",
+            "username": "hubeiyichangzy"
+        },
+        "service": {
+            "hostname": "www.hubeiyichangzy.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1475033121,
+    "expire_in": 157680000,
+    "prev": "3ca4546c9668cfdadef2f0002a6b04869d5024663a7e705d307c771360f565d1",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owGtkm1QVGUUx3eF3WRLXipqIIG4Kyntytz3lx0dlhwBdbI0phoSd+69z73LFffu
+si+sC7kJSeEomSNogqMTMBJmg0VjpoHiQICgycuMFZnMBkjpoDYixsLQXcY+NNPH
+ni/PPOf5n9/5nzPn4yVhKp06+E5d19ODy+PUvb9zqrdu08YSiLMDH2QqgQqEhUvY
+DgSX21IgAcgEwQiM0ATJkTxHYTgQcZzjaE4gAAMzPIziHMISHIcQJM4gGM7zPMIh
+IqtEKIEiRYyCCUKEWcgIiZJsFZwOpyS7FSyKwrjIMTiJMRSKsAyJkoCmEVjkCI5F
+eQpBAYZSCKMk5ttdoQzFHMe6hDTJrsSUh2XB3n/o/2ffngUciQOSRwEKKCBSKEXx
+AgkDAeCwiGAYsVDX4xKcMmsTFHW+hxMkn8Tns7K12AftNELKX5HEC6Hxhvp5rPN6
+vWn/1qbxdpvCcjjtbjtv3x5iud0OUwjh9jkWcgTO8phm4SQZKGNVEooEp0uyy5AJ
+UZS8WwrhEZwiYAxDUMQICTscklOwSCEFQZE0rByjVakjFClMjGdxAid5hiRpXgQs
+EERUVBQoS3IwTpMMIJSRkSTGKtOBCYDBFE9RCEbCIkESAIFCDRbKdshEKD5Zq4J0
+SVaZdXucArRTt2fR0nCVWqfSahaFFk6li4j+ZwtvvR01bws0vXvOpm032HSVm8tO
+Vly907g7eDbiuQPJvV794LPhW61D2oqY0cXro5JrU82rEzram13TW67NGQp+fa9U
+e/zQVGRD67ZjbTuq5P0v7Os3YL0z/gddQ9cNe6fySk8OZAyfma2bzdikjp2ilngH
+D0wfPL/imfb5E5rg67lfZAfSv+/z/1ZTHJs7ELGN0ash9uVr383ErWtoPkpc3HQj
+udrSY7+ak2Utb5m5+5GrKXX1q06zemuQafIsXQt/ElafmHs6/cPu1sK5F/H5GPph
+2cxZz+DPT61dtrIrQt+vjl/m8B+X8omN8r3X7lJ0ggY2Z4216Rdv/qFHlxu3ZtT4
+CnUh6smWpKpDFas+1X9bOoSFZa9zfOWIeRC802+qqwWPpqiJ85rGvqzRpJzJb/DD
+WzIqWy407/Ws+ZqoHD+yfGzP5Zf2n5ibtzyKbKxKTEodqUkIuhD5s4684syesisB
+syF15M8PWr+k37/f+mOOvyjd1pB58cZROvK+b+P4seLYm52T6jrXZP1PM6uu7OqO
+77HdulQrB/iGwstvBlJaNWEaOK7wpub6+Mp7ZdHJtyfLE82TG0om/A//6jSUZ+ZF
+NbXXRAyVnlkvD9eWSOkppzo6//Dtjm5zzKY837drxeHS9vruXwovWSaeSDw3EB+p
+jQVvZB+s1leNfD7dVz082hSXyp8KHzvd8zc=
+=fcDj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/hubeiyichangzy
+
+==================================================================
